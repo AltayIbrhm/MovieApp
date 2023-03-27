@@ -1,4 +1,4 @@
-const TMDB_API_KEY = 'your_tmdb_api_key_here';
+const TMDB_API_KEY = '5c384148ec2eacfb5b962e6672373548';
 const RECOMMENDATIONS_COUNT = 5;
 const GENRE_ID = 28; // Change this to the genre ID you want
 
